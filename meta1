@@ -1,0 +1,11 @@
+{
+  "name": "WL 100", 
+  "symbol": "WLWL",
+  "uri": "https://raw.githubusercontent.com/monstadao/metadata/main/uri1",
+  "sellerFeeBasisPoints": 1000,
+  "creators": "91qTJqyhaP8qYwj1Uqa5wWk68s7HfnQf5TGioBTTaBVX",
+  "website": "https://google.com",
+  "twitter": "https://twitter.com",
+  "collection": null,
+  "uses": null
+}
